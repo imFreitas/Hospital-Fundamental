@@ -68,7 +68,7 @@ Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
 
 -Os dados de tipo de quarto, convênio e especialidade são essenciais para a operação do sistema e, portanto, devem ser povoados assim que o sistema for instalado.
 
-<a href="https://github.com/imFreitas/Hospital-Fundamental-/blob/main/Parte%202/hospital.sql">Ver Código</a>
+<a href="https://github.com/imFreitas/Hospital-Fundamental-/blob/main/Parte%203/prisioneiro.sql">Ver Código</a>
 
 
 
