@@ -39,4 +39,4 @@ Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, o
 
 Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
 
-<a href="">Ver modelo fisico</a>
+<a href="https://github.com/imFreitas/Hospital-Fundamental-/blob/main/Parte%202/hospital.sql">Ver modelo fisico</a>
