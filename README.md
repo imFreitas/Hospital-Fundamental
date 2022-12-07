@@ -38,3 +38,5 @@ Por último, crie um script SQL para a geração do banco de dados e para instru
 Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, ou mesmo um editor de imagens para o diagrama.  Você pode utilizar o MySQL Workbench ou o DBdiagram.io para montar os scripts SQL.
 
 Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
+
+<a href="">Ver modelo fisico</a>
