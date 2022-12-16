@@ -1,5 +1,5 @@
 insert into receitas(id_receita,nome_remedio,quantidade_remedio,hora_remedio,tipo_remedio,medico_receitas)
-values(1,"murilo",10,10-20-05,"tarja branca",1);
+values(1,"pedro",10,10-20-05,"tarja branca",1);
 
 
 alter table receitas add foreign key (medico_receitas)
